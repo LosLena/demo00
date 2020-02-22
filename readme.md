@@ -6,3 +6,5 @@
 
 *Начнем с регистрации. Идем по ссылке [github.com/signup/free] и вводим свои данные. После регистрации мы попадаем на Dashboard нашего аккаунта:*
 
+![1.Регистрация](https://github.com/LosLena/demo5.git/ris1.png)
+
